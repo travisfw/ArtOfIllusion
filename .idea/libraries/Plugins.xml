@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Plugins/OSSpecific.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Translators.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Renderers.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

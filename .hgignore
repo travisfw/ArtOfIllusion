@@ -1,0 +1,10 @@
+^ArtOfIllusion/build/
+^ArtOfIllusion/docs/
+^ArtOfIllusion/target/
+^ArtOfIllusion\.jar$
+^Live_Application/
+^\.git/
+^\.idea/dbnavigator\.xml$
+^\.idea/workspace.xml$
+^bin/
+^out/

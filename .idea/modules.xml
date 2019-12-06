@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArtOfIllusion/ArtOfIllusion.iml" filepath="$PROJECT_DIR$/ArtOfIllusion/ArtOfIllusion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OSSpecific/OSSpecific.iml" filepath="$PROJECT_DIR$/OSSpecific/OSSpecific.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Renderers/Renderers.iml" filepath="$PROJECT_DIR$/Renderers/Renderers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tests/Tests.iml" filepath="$PROJECT_DIR$/Tests/Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tools/Tools.iml" filepath="$PROJECT_DIR$/Tools/Tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Translators/Translators.iml" filepath="$PROJECT_DIR$/Translators/Translators.iml" />
+    </modules>
+  </component>
+</project>
